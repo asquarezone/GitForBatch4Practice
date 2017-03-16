@@ -1,3 +1,6 @@
 
 Tea
 Coffee
+
+Vanilla
+Chocolate
