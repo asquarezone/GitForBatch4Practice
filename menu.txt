@@ -1,2 +1,9 @@
+##############Welcome##############
 Menu
-biryani
+
+Biryani
+Tea
+Coffee
+
+Vanilla
+Chocolate
